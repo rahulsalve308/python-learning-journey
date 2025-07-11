@@ -1,6 +1,4 @@
-# python-learning-journey
-
-## Short Description
+# Short Description
 A curated collection of Python exercises, projects, and notes documenting my hands-on learning and growth as a Python developer.
 
 # Whats this about:
