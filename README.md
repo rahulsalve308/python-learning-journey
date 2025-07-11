@@ -7,12 +7,12 @@ Welcome to my Python Learning Journey!
 This repository is a comprehensive record of my exploration and mastery of Python programming. Here, you’ll find a variety of hands-on exercises, mini-projects, algorithm implementations, and personal notes that reflect my progress and passion for coding.
 
 ## What’s Inside
-Fundamental Concepts: Variables, data types, control flow, functions, and more.
-Data Structures: Lists, dictionaries, sets, tuples, and custom structures.
-Algorithms: Sorting, searching, recursion, and problem-solving techniques.
-Projects: Real-world applications and mini-projects to apply my skills.
-Best Practices: Code style, documentation, and testing examples.
-Continuous Learning: Regular updates as I explore new topics and challenges.
+- Fundamental Concepts: Variables, data types, control flow, functions, and more.
+- Data Structures: Lists, dictionaries, sets, tuples, and custom structures.
+- Algorithms: Sorting, searching, recursion, and problem-solving techniques.
+- Projects: Real-world applications and mini-projects to apply my skills.
+- Best Practices: Code style, documentation, and testing examples.
+- Continuous Learning: Regular updates as I explore new topics and challenges.
 
 ## Purpose
 To reinforce my understanding of Python through practical coding.
