@@ -1,11 +1,9 @@
 # python-learning-journey
 
-# Short Description
+## Short Description
 A curated collection of Python exercises, projects, and notes documenting my hands-on learning and growth as a Python developer.
 
-
-
-# Long Description
+# Whats this about:
 ## Python Learning Journey
 Welcome to my Python Learning Journey!
 This repository is a comprehensive record of my exploration and mastery of Python programming. Here, you’ll find a variety of hands-on exercises, mini-projects, algorithm implementations, and personal notes that reflect my progress and passion for coding.
