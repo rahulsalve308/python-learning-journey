@@ -1,3 +1,5 @@
+#This code demonstrates inheritance, method overriding, and specialization for Analyst, Data Engineer, and Data Scientist roles.
+
 class DataProfessional:
     def __init__(self, name):
         self.name = name
